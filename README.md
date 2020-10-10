@@ -18,3 +18,6 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 > - _____________________________________________________________________________________________________________________________________________________________________________
 
 ### [DataSet](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?)
+
+
+![Image](https://www.medica-tradefair.com/medicacache/pica/7/2/8/7/9/0/1/111231588660476/asociaci-n-ruvid-halbe_breite-01-asociaci-n-ruvid-ray20comparison.jpg)
